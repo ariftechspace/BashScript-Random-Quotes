@@ -23,3 +23,4 @@ The quote is displayed in **red text** for emphasis.
 - The script uses ANSI escape sequences (\e[31m for red, \e[0m to reset).
 - Works on most Unix-like terminals (Linux, macOS, WSL, etc.).
 - You can easily add more quotes by editing the ARRAY inside the script.
+  
